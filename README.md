@@ -1,4 +1,4 @@
-# Daniel Luca — decentralized AI builder and investor 🦄
+# Daniel Luca - decentralized AI builder and investor 🦄
 
 Tech Partner at [Eden Block](https://edenblock.com), doing technical diligence and sourcing for blockchain and deep-tech. Before that: Ethereum security auditor since 2017.
 
